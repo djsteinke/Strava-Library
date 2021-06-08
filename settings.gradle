@@ -1,0 +1,3 @@
+include ':stravalib'
+include ':app'
+rootProject.name = "Strava Library"
